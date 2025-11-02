@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SurgiDiet Planner",
+  "description": "An interactive UI that helps patients prepare for surgery with custom diet plans and supports their post-operative recovery. Plans can be AI-generated, prescribed by doctors, or based on successful community examples.",
+  "requestFramePermissions": []
+}
